@@ -1,0 +1,6 @@
+{
+  "name": "KIAN JAYA POS",
+  "description": "Aplikasi Kasir (Point of Sale) modern & lengkap dengan sistem multi-user RBAC, manajemen produk & stok otomatis, transaksi kasir interaktif, cetak struk nota, grafik pendapatan harian/bulanan, dan ekspor laporan CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
